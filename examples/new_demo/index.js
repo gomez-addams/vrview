@@ -42,8 +42,7 @@ var scenes = {
                 yaw: -137.84069024564556
             }
         },
-        image: imageBase + "images/capture_01.jpg",
-        preview: imageBase + "images/capture_01-preview.jpg"
+        image: imageBase + "images/capture_01.jpg"
     },
     capture_02: {
         hotspots: {
@@ -72,8 +71,7 @@ var scenes = {
                 yaw: 170.76595616615197
             }
         },
-        image: imageBase + "images/capture_02.jpg",
-        preview: imageBase + "images/capture_02-preview.jpg"
+        image: imageBase + "images/capture_02.jpg"
     },
     capture_03: {
         hotspots: {
@@ -102,8 +100,7 @@ var scenes = {
                 yaw: 43.059514539011644
             }
         },
-        image: imageBase + "images/capture_03.jpg",
-        preview: imageBase + "images/capture_03-preview.jpg"
+        image: imageBase + "images/capture_03.jpg"
     },
     capture_04: {
         hotspots: {
@@ -138,8 +135,7 @@ var scenes = {
                 yaw: -163.4850946402346
             }
         },
-        image: imageBase + "images/capture_04.jpg",
-        preview: imageBase + "images/capture_04-preview.jpg"
+        image: imageBase + "images/capture_04.jpg"
     },
     capture_05: {
         hotspots: {
@@ -168,8 +164,7 @@ var scenes = {
                 yaw: 152.34246590015647
             }
         },
-        image: imageBase + "images/capture_05.jpg",
-        preview: imageBase + "images/capture_05-preview.jpg"
+        image: imageBase + "images/capture_05.jpg"
     },
     capture_06: {
         hotspots: {
@@ -186,8 +181,7 @@ var scenes = {
                 yaw: 114.57167600080503
             }
         },
-        image: imageBase + "images/capture_06.jpg",
-        preview: imageBase + "images/capture_06-preview.jpg"
+        image: imageBase + "images/capture_06.jpg"
     },
     capture_07: {
         hotspots: {
@@ -210,8 +204,7 @@ var scenes = {
                 yaw: 75.2417571621161
             }
         },
-        image: imageBase + "images/capture_07.jpg",
-        preview: imageBase + "images/capture_07-preview.jpg"
+        image: imageBase + "images/capture_07.jpg"
     },
     capture_08: {
         hotspots: {
@@ -234,8 +227,7 @@ var scenes = {
                 yaw: 27.794351702914298
             }
         },
-        image: imageBase + "images/capture_08.jpg",
-        preview: imageBase + "images/capture_08-preview.jpg"
+        image: imageBase + "images/capture_08.jpg"
     },
     capture_09: {
         hotspots: {
@@ -246,8 +238,7 @@ var scenes = {
                 yaw: -80.5230318512329
             }
         },
-        image: imageBase + "images/capture_09.jpg",
-        preview: imageBase + "images/capture_09-preview.jpg"
+        image: imageBase + "images/capture_09.jpg"
     },
     capture_10: {
         hotspots: {
@@ -270,8 +261,7 @@ var scenes = {
                 yaw: -144.16938925469216
             }
         },
-        image: imageBase + "images/capture_10.jpg",
-        preview: imageBase + "images/capture_10-preview.jpg"
+        image: imageBase + "images/capture_10.jpg"
     },
     capture_11: {
         hotspots: {
@@ -294,8 +284,7 @@ var scenes = {
                 yaw: 16.51490535976541
             }
         },
-        image: imageBase + "images/capture_11.jpg",
-        preview: imageBase + "images/capture_11-preview.jpg"
+        image: imageBase + "images/capture_11.jpg"
     },
     capture_12: {
         hotspots: {
@@ -306,13 +295,11 @@ var scenes = {
                 yaw: 35.830610745307844
             }
         },
-        image: imageBase + "images/capture_12.jpg",
-        preview: imageBase + "images/capture_12-preview.jpg"
+        image: imageBase + "images/capture_12.jpg"
     },
     capture_13: {
         hotspots: {},
-        image: imageBase + "images/capture_13.jpg",
-        preview: imageBase + "images/capture_13-preview.jpg"
+        image: imageBase + "images/capture_13.jpg"
     },
     capture_14: {
         hotspots: {
@@ -329,8 +316,7 @@ var scenes = {
                 yaw: -152.2056482970857
             }
         },
-        image: imageBase + "images/capture_14.jpg",
-        preview: imageBase + "images/capture_14-preview.jpg"
+        image: imageBase + "images/capture_14.jpg"
     }
 };
 
